@@ -1,10 +1,39 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFA6&height=120&section=footer" />
+
+
+
 <p align="center">
   <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1=👨‍💻%20Wajahat%20Ali%20Mir%20%7C%20Python%20Developer&width=800&height=200" alt="Profile Banner" />
 </p>
+<details>
+  <summary><b>💌 Contact Me</b></summary>
+  <br/>
+  <div align="center">
+    <!-- Typing Animation (SVG only) -->
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Let's+connect+and+build+something+awesome!" alt="Animated Typing SVG" />
+    <br/><br/>
+   <!-- Clean Contact Box -->
+    <div style="border: 2px solid #00FFA6; border-radius: 15px; padding: 25px; display: inline-block;">
+      <h2 align="center">📬 You can reach me at:</h2>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/wajahatalimirpro" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a>
+        <a href="mailto:mrwajahatalimir@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        <a href="https://wa.me/923700882006" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+      </p>
+    </div>
+    <br/><br/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFA6&height=120&section=footer" />
+  </div>
+</details>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&vCenter=true&width=700&lines=Welcome+to+my+GitHub+profile!;Python+Developer+%7C+Automation+Enthusiast;Open+Source+%7C+Building+with+Purpose" alt="Typing SVG" />
-</p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WajahatAliMirPro&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
